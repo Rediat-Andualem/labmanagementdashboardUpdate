@@ -1,9 +1,10 @@
-import React, { useState } from 'react';
+
 import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
 import styles from './PasswordUpdator.module.css';
 import { axiosInstance } from '../../Utility/urlInstance';
 import { useParams, useNavigate } from 'react-router-dom';
+import { useState } from 'react';
 
 function PasswordUpdater() {
   const [newPassword, setPassword] = useState('');
