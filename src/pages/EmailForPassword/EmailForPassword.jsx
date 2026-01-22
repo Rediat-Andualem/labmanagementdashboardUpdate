@@ -1,7 +1,7 @@
 import Button from "react-bootstrap/Button";
 import Form from "react-bootstrap/Form";
 import Spinner from "react-bootstrap/Spinner";
-import styles from "EmailForPassWord.module.css";
+import styles from "./EmailForPassWord.module.css";
 import { axiosInstance } from "../../Utility/urlInstance";
 import { useState } from "react";
 
