@@ -1,7 +1,7 @@
 
 import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
-import styles from './PasswordUpdator.module.css';
+import styles from './PassWordUpdator.module.css';
 import { axiosInstance } from '../../Utility/urlInstance';
 import { useParams, useNavigate } from 'react-router-dom';
 import { useState } from 'react';
