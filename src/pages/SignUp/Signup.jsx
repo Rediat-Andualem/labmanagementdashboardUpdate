@@ -76,7 +76,7 @@ function SignUp() {
             type="text"
             id="firstName"
             name="user_first_name"
-            placeholder="Anjali"
+            placeholder="Prakash"
             value={formData.user_first_name}
             onChange={handleChange}
             className={styles.input}
@@ -92,7 +92,7 @@ function SignUp() {
             type="text"
             id="lastName"
             name="user_last_name"
-            placeholder="Garg"
+            placeholder="Biswas"
             value={formData.user_last_name}
             onChange={handleChange}
             className={styles.input}
