@@ -76,6 +76,11 @@ function Manuals() {
       file: "/Manuals/How_to_install_Origin.pdf",
       desc: "how to install origin student version",
     },
+        {
+      name: "MPL MFC manual",
+      file: "/Manuals/DOC-MANUAL-MPL.pdf",
+      desc: "how to operate and set MFC flow rate and combination for MPL MFC",
+    },
   ];
 
   return (
