@@ -81,6 +81,11 @@ function Manuals() {
       file: "/Manuals/DOC-MANUAL-MPL.pdf",
       desc: "how to operate and set MFC flow rate and combination for MPL MFC",
     },
+            {
+      name: "Lab man Ph meter manual",
+      file: "/Manuals/LMPH9.pdf",
+      desc: "lab man ph meter instructions and manual ",
+    },
   ];
 
   return (

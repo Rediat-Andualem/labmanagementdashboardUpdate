@@ -76,6 +76,16 @@ function Videos() {
       link: "https://www.youtube.com/watch?v=6I1y254qRYo&list=PLfsAq3WZadM6xJpmBhMe__NY1Usz1n0Gy",
       desc: "how to use centrifuge machine",
     },
+    {
+      name: "MFC Related",
+      link: "https://www.youtube.com/watch?v=0Jr0-I18LQ4&list=PLfsAq3WZadM7S8bGgwEL7O0-NAQ4Eb0JJ&pp=gAQBsAgC",
+      desc: "how to set flow and combination of gas setup in MFC",
+    },
+    {
+      name: "SAMTEK 50ml reactor related",
+      link: "https://www.youtube.com/watch?v=nZbiR-NtDKg&list=PLfsAq3WZadM6jb22nhuh-lc7j-C78d9LS&pp=gAQBsAgC",
+      desc: "how to set ramping and reset all programs",
+    },
   ];
 
   return (
